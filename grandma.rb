@@ -13,6 +13,7 @@ elsif phrase == "WHAT DID YOU EAT TODAY?"
   print "NO, NOT SINCE 1938!"
 elsif phrase == "WHAT?"
   print "NO, NOT SINCE 1938!"
+else
 # If you shout, she can hear you (or at least she thinks so)
 # and yells back
 
